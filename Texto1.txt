@@ -2,4 +2,4 @@
 REV 0
 texto1
 
-texto alt
+texto alter
